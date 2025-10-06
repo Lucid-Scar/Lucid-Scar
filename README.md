@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Networking as part of my Cybersec journey**
 
-- 📫 How to reach me **joshbryanth@gmail.com**
+- 📫 Email me at: **joshbryanth@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
